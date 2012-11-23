@@ -10,3 +10,11 @@
 	  
 	
 	-- Name (email@address.com) Fri, Nov 23, 2012 17:33 +0100
+# Auto-adding newest version of android/sdk
+
+	* Is there a way to automate getting newest version ID (ASI_VERSION="0.1.5") from server? It would slow-down
+	  the process of installation, but you wont need to download the script again, or change the script manualy
+	  every time that version of android/android-sdk/adt is pushed out.
+
+
+	-- Zlatko (zseha@hotmail.com) Fri, Nov 23, 20012 21:52 +0100
